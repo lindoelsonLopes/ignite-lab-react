@@ -3,7 +3,6 @@ import { useNavigate } from "react-router";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 import CodeMockup from '../assets/code-mockup.png';
-import imgUrl from './img.png'
 
 
 export function Subscribe() {
